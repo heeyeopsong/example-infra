@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "kbl"
+    organization = "shy-test"
     workspaces { name = "example-infra" }
   }
   required_providers {
